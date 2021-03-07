@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basic Functions and Data Types", "Basic Functions and Data Types\Basic Functions and Data Types.csproj", "{D867A65A-1704-4745-A88E-A130CECDA924}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D867A65A-1704-4745-A88E-A130CECDA924}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D867A65A-1704-4745-A88E-A130CECDA924}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D867A65A-1704-4745-A88E-A130CECDA924}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D867A65A-1704-4745-A88E-A130CECDA924}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6E5DD76-A5C4-426E-B784-D00C6F4E1AC7}
+	EndGlobalSection
+EndGlobal

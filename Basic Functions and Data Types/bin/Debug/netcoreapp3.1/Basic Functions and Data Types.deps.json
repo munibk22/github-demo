@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Basic Functions and Data Types/1.0.0": {
+        "runtime": {
+          "Basic Functions and Data Types.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Basic Functions and Data Types/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

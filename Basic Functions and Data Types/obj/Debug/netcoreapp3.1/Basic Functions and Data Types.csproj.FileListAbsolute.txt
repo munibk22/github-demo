@@ -1,0 +1,13 @@
+C:\Users\Integ\source\repos\Basic Functions and Data Types\Basic Functions and Data Types\bin\Debug\netcoreapp3.1\Basic Functions and Data Types.exe
+C:\Users\Integ\source\repos\Basic Functions and Data Types\Basic Functions and Data Types\bin\Debug\netcoreapp3.1\Basic Functions and Data Types.deps.json
+C:\Users\Integ\source\repos\Basic Functions and Data Types\Basic Functions and Data Types\bin\Debug\netcoreapp3.1\Basic Functions and Data Types.runtimeconfig.json
+C:\Users\Integ\source\repos\Basic Functions and Data Types\Basic Functions and Data Types\bin\Debug\netcoreapp3.1\Basic Functions and Data Types.runtimeconfig.dev.json
+C:\Users\Integ\source\repos\Basic Functions and Data Types\Basic Functions and Data Types\bin\Debug\netcoreapp3.1\Basic Functions and Data Types.dll
+C:\Users\Integ\source\repos\Basic Functions and Data Types\Basic Functions and Data Types\bin\Debug\netcoreapp3.1\Basic Functions and Data Types.pdb
+C:\Users\Integ\source\repos\Basic Functions and Data Types\Basic Functions and Data Types\obj\Debug\netcoreapp3.1\Basic Functions and Data Types.csprojAssemblyReference.cache
+C:\Users\Integ\source\repos\Basic Functions and Data Types\Basic Functions and Data Types\obj\Debug\netcoreapp3.1\Basic Functions and Data Types.AssemblyInfoInputs.cache
+C:\Users\Integ\source\repos\Basic Functions and Data Types\Basic Functions and Data Types\obj\Debug\netcoreapp3.1\Basic Functions and Data Types.AssemblyInfo.cs
+C:\Users\Integ\source\repos\Basic Functions and Data Types\Basic Functions and Data Types\obj\Debug\netcoreapp3.1\Basic Functions and Data Types.csproj.CoreCompileInputs.cache
+C:\Users\Integ\source\repos\Basic Functions and Data Types\Basic Functions and Data Types\obj\Debug\netcoreapp3.1\Basic Functions and Data Types.dll
+C:\Users\Integ\source\repos\Basic Functions and Data Types\Basic Functions and Data Types\obj\Debug\netcoreapp3.1\Basic Functions and Data Types.pdb
+C:\Users\Integ\source\repos\Basic Functions and Data Types\Basic Functions and Data Types\obj\Debug\netcoreapp3.1\Basic Functions and Data Types.genruntimeconfig.cache
